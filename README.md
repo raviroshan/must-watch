@@ -1,10 +1,10 @@
 # Must Watch
 
-The inspiration for creating this project came from [JavaScript must watch repo](https://github.com/bolshchikov/js-must-watch). Being a Software Engineer, I spend majority on my time on Building & Breaking code, Stackoverflow, enjoying rapidly evolving JavaScript ecosystem and keeping myself up-to-date with latest industry tools & practices.
+This project is highly inspired by [JavaScript must watch repo](https://github.com/bolshchikov/js-must-watch). Being a Software Engineer, I spend my major hours Building & Breaking code, Stackoverflow, cherishing ever changing JavaScript ecosystem and keeping pace with the latest industry tools & best practices.
 
-To overcome the 🔥 burnt out feeling, 😞 failures and keep myself motivated 🚀, I used to watch many YouTube videos, and if found really worth, shared with close friends and family members. Eventually I realized these could be helpful for others also.
+To overcome the 🔥 burnt out feeling, 😞 failures and keep myself motivated 🚀, I used to watch many YouTube videos, and if found really worth, shared with close friends and family members. Eventually I realized these could be helpful for others as well.
 
-So, here are the list of curated videos which I can watch repeatedly 🔁:
+So, here is the list of curated videos which I can watch repeatedly 🔁:
 
 ## Motivational
 * [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)

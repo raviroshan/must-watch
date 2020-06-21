@@ -16,12 +16,17 @@ So, here are the list of curated videos which I can watch repeatedly 🔁:
 
 ## Learnings
 * [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
+* [How to practice effectively...for just about anything - Annie Bosler and Don Greene](https://www.youtube.com/watch?v=f2O6mQkFiiw)
+
 
 ## Time Management
 * [Inside the mind of a master procrastinator | Tim Urban](https://www.youtube.com/watch?v=arj7oStGLkU&t=1s)
 
+
 ## Health 
 * [Sleep is your superpower | Matt Walker](https://www.youtube.com/watch?v=5MuIMqhT8DM)
+* [All it takes is 10 mindful minutes | Andy Puddicombe](https://www.youtube.com/watch?v=qzR62JJCMBQ)
+
 
 ## Miscellaneous
 * [Business Lessons That You Can Learn From The Streets Of India | Capt. Raghu Raman | Josh Talks](https://www.youtube.com/watch?v=12eD3K5Peu8)

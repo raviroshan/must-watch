@@ -1,6 +1,6 @@
 # Must Watch
 
-The inspiration for creating this project came from [JavaScript must watch repo](https://github.com/bolshchikov/js-must-watch). Being a Software Engineer, I spend majority on my time on Building & Breaking code, [StackOverflow](https://stackoverflow.com/), enjoying rapidly evolving JavaScript ecosystem and keeping myself up-to-date with latest industry tools & practices.
+The inspiration for creating this project came from [JavaScript must watch repo](https://github.com/bolshchikov/js-must-watch). Being a Software Engineer, I spend majority on my time on Building & Breaking code, Stackoverflow, enjoying rapidly evolving JavaScript ecosystem and keeping myself up-to-date with latest industry tools & practices.
 
 To overcome the 🔥 burnt out feeling, 😞 failures and keep myself motivated 🚀, I used to watch many YouTube videos, and if found really worth, shared with close friends and family members. Eventually I realized these could be helpful for others also.
 

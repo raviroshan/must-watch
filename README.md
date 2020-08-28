@@ -26,6 +26,7 @@ So, here is the list of curated videos which I can watch repeatedly 🔁:
 ## Health 
 * [Sleep is your superpower | Matt Walker](https://www.youtube.com/watch?v=5MuIMqhT8DM)
 * [All it takes is 10 mindful minutes | Andy Puddicombe](https://www.youtube.com/watch?v=qzR62JJCMBQ)
+* [Health lies in healthy circadian habits | Satchin Panda](https://www.youtube.com/watch?v=erBJuxVR7IE)
 
 
 ## Miscellaneous
